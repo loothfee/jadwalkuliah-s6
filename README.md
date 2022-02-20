@@ -1,4 +1,7 @@
 # Jadwal Kuliah Semester 6 Kelas Informatika B 2019
+
+## Link Jadwal Kuliah
+[Jadwal Kuliah S6](https://jadwalkuliah-s6.web.app/)
 <!-- 
 ## Project setup Backend & Frontend
 ```
